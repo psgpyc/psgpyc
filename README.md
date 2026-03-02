@@ -1,6 +1,13 @@
-Hey, I am (@psgpyc)Paritosh Ghimire.
+Hey 👋, I am [@psgpyc](https://github.com/psgpyc) (**Paritosh Ghimire**). I also go by the name **Ozzy**. 
 
-I’m an data/analytics engineer who builds reliable analytics datasets from real-world business systems. I specialise in taking data from multiple source systems that arrives late, changes shape, and comes through semi structured, then turning it into clean, well-defined models that analysts and stakeholders can trust. 
+I’m an data/analytics engineer from Nepal. 
+I currently live in London, UK.
 
-**Focus:** AWS • Snowflake • dbt • Airflow • Terraform • Python • SQL
+I am currently pursuing Bsc.(Hons) Data Science at [The Open University](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38/)
+
+I build data and analytics systems using [SQL](), [Python](), [dbt](), [Apache Airflow](). I enjoy building Data Infrastructure on [AWS]() & [Snowflake]() using [Terraform](). 
+
+
+
+
 
