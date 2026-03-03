@@ -4,11 +4,9 @@ I’m an data/analytics engineer from Nepal 🇳🇵.
 
 I am living in London, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 since 2023.  
 
-I am currently pursuing Bsc.(Hons) Data Science at [The Open University](https://www.open.ac.uk/courses/statistics/degrees/bsc-data-science-r38/)  
-
 I build data and analytics systems using [SQL](), [Python](), [dbt](), [Apache Airflow]() on [AWS]() & [Snowflake]() using [Terraform](). 
 
-I am also learning [Apache Spark]().
+I am also learning [Apache Spark](). I have made myself familiar with the architecture and Pyspark. I will soon be building projects.
 
 ### ✅ My Recent Projects:   
 
