@@ -1,8 +1,6 @@
 Hey 👋, I am [@psgpyc](https://github.com/psgpyc) (**Paritosh Ghimire**).  
 
-I’m an data/analytics engineer from Nepal 🇳🇵.     
-
-I am living in London, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 since 2023.  
+I’m an data/analytics engineer from Nepal 🇳🇵. I am living in London, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 since 2023.  
 
 I build data and analytics systems using [SQL](), [Python](), [dbt](), [Apache Airflow]() on [AWS]() & [Snowflake]() using [Terraform](). 
 
