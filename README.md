@@ -16,16 +16,11 @@ I am also learning [Apache Spark](). I have made myself familiar with the archit
 
 I built an event-driven ingestion and modelling pipeline for late-arriving data in S3. Events flow through SNS to SQS (with a DLQ), and Snowpipe auto-ingests the data into Snowflake RAW tables. From there, dbt standardises and validates the data, quarantines bad rows, builds integrated intermediate models, publishes dimensional marts for BI, and ships monitoring models for freshness and data quality.  
 
-
-### I am currently working on:  
-![In Progress](https://img.shields.io/badge/IN%20PROGRESS-f59e0b?style=flat-square)    
-
 [Airflow on AWS ECS](https://github.com/psgpyc/Airflow-on-ECS-FARGATE)  
   
 I set up Apache Airflow on [AWS ECS Fargate]() with Terraform — VPC networking, an Application Load Balancer for the web UI, Airflow services running in private subnets in Fargate containers, shared storage([EFS]()) access points for DAGs/logs, and secrets managed through AWS.  
 Terraform state is managed in Amazon S3 using a remote S3 backend.  
 
-Next, I’ll be authoring DAGs for my restaurant reservation pipeline and running them on this infrastructure.  
 
 
 
