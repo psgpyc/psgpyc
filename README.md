@@ -1,8 +1,8 @@
 Hey 👋, I am [@psgpyc](https://github.com/psgpyc) (**Paritosh Ghimire**).  
 
-I’m an data & analytics engineer. I build data and analytics systems using [SQL](), [Python](), [dbt](), [Apache Airflow]() on [AWS]() & [Snowflake]() using [Terraform](). 
+I’m am figuring things out. In the past, I have built data and analytics systems using [SQL](), [Python](), [dbt](), [Apache Airflow]() on [AWS]() & [Snowflake]() using [Terraform](). 
 
-I also build Dashboards using Tableau. Here is the link to my [dashboards](https://public.tableau.com/app/profile/paritosh.sharma.ghimire/vizzes)
+I've also built Dashboards using Tableau. Here is the link to my [dashboards](https://public.tableau.com/app/profile/paritosh.sharma.ghimire/vizzes)
 
 ### My Recent Projects:   
 ![Featured](https://img.shields.io/badge/FEATURED-2ea44f?style=flat-square)    
